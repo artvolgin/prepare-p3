@@ -1,0 +1,8 @@
+data/core/
+data/hcap/
+data/predictions/
+data/processed/
+/models/*
+!/models/.keep
+**/__pycache__/
+**/catboost_info/
