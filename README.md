@@ -1,5 +1,4 @@
-# PREPARE Challenge: Phase 3.
-# Early Detection of AD/ADRD: A Robust, Fair, and Explainable Framework for Cognitive Score Prediction
+# PREPARE Challenge: Phase 3. Early Detection of AD/ADRD: A Robust, Fair, and Explainable Framework for Cognitive Score Prediction
 
 This repository contains a comprehensive machine learning pipeline for cognitive score prediction across multiple countries. The repo includes data preprocessing, model training, and evaluation examples.
 
